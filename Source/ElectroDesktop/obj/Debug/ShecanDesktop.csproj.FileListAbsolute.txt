@@ -1,0 +1,47 @@
+C:\Users\Arvin\Desktop\SHecan\ShecanDesktop\bin\Debug\ControlzEx.dll
+C:\Users\Arvin\Desktop\SHecan\ShecanDesktop\bin\Debug\MahApps.Metro.dll
+C:\Users\Arvin\Desktop\SHecan\ShecanDesktop\bin\Debug\MaterialDesignColors.dll
+C:\Users\Arvin\Desktop\SHecan\ShecanDesktop\bin\Debug\MaterialDesignThemes.MahApps.dll
+C:\Users\Arvin\Desktop\SHecan\ShecanDesktop\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Arvin\Desktop\SHecan\ShecanDesktop\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Arvin\Desktop\SHecan\ShecanDesktop\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Arvin\Desktop\SHecan\ShecanDesktop\bin\Debug\ControlzEx.pdb
+C:\Users\Arvin\Desktop\SHecan\ShecanDesktop\bin\Debug\MahApps.Metro.pdb
+C:\Users\Arvin\Desktop\SHecan\ShecanDesktop\bin\Debug\MahApps.Metro.xml
+C:\Users\Arvin\Desktop\SHecan\ShecanDesktop\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Arvin\Desktop\SHecan\ShecanDesktop\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Arvin\Desktop\SHecan\ShecanDesktop\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Arvin\Desktop\SHecan\ShecanDesktop\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Arvin\Desktop\SHecan\ShecanDesktop\obj\Debug\ShecanDesktop.csproj.AssemblyReference.cache
+C:\Users\Arvin\Desktop\SHecan\ShecanDesktop\obj\Debug\ShecanDesktop.csproj.SuggestedBindingRedirects.cache
+C:\Users\Arvin\Desktop\SHecan\ShecanDesktop\obj\Debug\Resources\UI\Patches\MaterialDesignTextBox.baml
+C:\Users\Arvin\Desktop\SHecan\ShecanDesktop\obj\Debug\Resources\UI\Patches\ScrollBar.baml
+C:\Users\Arvin\Desktop\SHecan\ShecanDesktop\obj\Debug\Resources\UI\Resources.baml
+C:\Users\Arvin\Desktop\SHecan\ShecanDesktop\obj\Debug\Resources\UI\Styles.baml
+C:\Users\Arvin\Desktop\SHecan\ShecanDesktop\obj\Debug\Resources\UI\Themes\Dark.baml
+C:\Users\Arvin\Desktop\SHecan\ShecanDesktop\obj\Debug\Views\Boxes\AboutPage.baml
+C:\Users\Arvin\Desktop\SHecan\ShecanDesktop\obj\Debug\Views\Controls\BoxHost.baml
+C:\Users\Arvin\Desktop\SHecan\ShecanDesktop\obj\Debug\Views\Controls\BoxTitleBar.baml
+C:\Users\Arvin\Desktop\SHecan\ShecanDesktop\obj\Debug\MainWindow.g.cs
+C:\Users\Arvin\Desktop\SHecan\ShecanDesktop\obj\Debug\Views\Boxes\AboutPage.g.cs
+C:\Users\Arvin\Desktop\SHecan\ShecanDesktop\obj\Debug\Views\Controls\BoxHost.g.cs
+C:\Users\Arvin\Desktop\SHecan\ShecanDesktop\obj\Debug\Views\Controls\BoxTitleBar.g.cs
+C:\Users\Arvin\Desktop\SHecan\ShecanDesktop\obj\Debug\Views\MainPage.g.cs
+C:\Users\Arvin\Desktop\SHecan\ShecanDesktop\obj\Debug\App.g.cs
+C:\Users\Arvin\Desktop\SHecan\ShecanDesktop\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Arvin\Desktop\SHecan\ShecanDesktop\obj\Debug\App.baml
+C:\Users\Arvin\Desktop\SHecan\ShecanDesktop\obj\Debug\MainWindow.baml
+C:\Users\Arvin\Desktop\SHecan\ShecanDesktop\obj\Debug\Views\MainPage.baml
+C:\Users\Arvin\Desktop\SHecan\ShecanDesktop\obj\Debug\ShecanDesktop.Properties.Resources.resources
+C:\Users\Arvin\Desktop\SHecan\ShecanDesktop\obj\Debug\ShecanDesktop.csproj.GenerateResource.cache
+C:\Users\Arvin\Desktop\SHecan\ShecanDesktop\obj\Debug\ShecanDesktop.csproj.CoreCompileInputs.cache
+C:\Users\Arvin\Desktop\SHecan\ShecanDesktop\obj\Debug\ShecanDesktop.csproj.Fody.CopyLocal.cache
+C:\Users\Arvin\Desktop\SHecan\ShecanDesktop\obj\Debug\ShecanDesktop.csproj.CopyComplete
+C:\Users\Arvin\Desktop\SHecan\ShecanDesktop\bin\Debug\amoAR DNS.exe.config
+C:\Users\Arvin\Desktop\SHecan\ShecanDesktop\bin\Debug\amoAR DNS.exe
+C:\Users\Arvin\Desktop\SHecan\ShecanDesktop\bin\Debug\amoAR DNS.pdb
+C:\Users\Arvin\Desktop\SHecan\ShecanDesktop\obj\Debug\amoAR DNS_MarkupCompile.cache
+C:\Users\Arvin\Desktop\SHecan\ShecanDesktop\obj\Debug\amoAR DNS_MarkupCompile.lref
+C:\Users\Arvin\Desktop\SHecan\ShecanDesktop\obj\Debug\amoAR DNS.g.resources
+C:\Users\Arvin\Desktop\SHecan\ShecanDesktop\obj\Debug\amoAR DNS.exe
+C:\Users\Arvin\Desktop\SHecan\ShecanDesktop\obj\Debug\amoAR DNS.pdb
