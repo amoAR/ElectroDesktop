@@ -1,5 +1,5 @@
 <p align="center">
-<img src="Docs/logo.png" alt="Electro Logo"/>
+<img src="Docs/Logo.png" alt="Electro Logo"/>
 </p>
 
 # Electro Desktop (Unofficial)
