@@ -5,9 +5,9 @@
 # Electro Desktop (Unofficial)
 
 Simple Windows application for Electro service (See [Electrotm.org](https://electrotm.org) for more information).\
-If you refuse to enter Electro dns manually, you can use this program.
+If you refuse to enter Electro dns manually, you can use this program. (Works only for wired connection)
 
-This software includes the ShecanDesktop Library: Copyright (C) 2019 AmRo045
+This software includes the Desktop Library: Copyright (C) 2019 AmRo045
 
 ## Third-Party
 
